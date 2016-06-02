@@ -1,3 +1,11 @@
+body{
+  font-family:Tahoma,Geneva,Sans-Serif;
+  background-image:url('https://googledrive.com/host/PrimeAcademy/GitHub/KBarrettTomlinson/Images/Background/Images/Blue.xcf');
+  background-position: center top;
+  background-size: cover;
+  margin: 0;
+}
+
 h1{
   font-family:Tahoma,Geneva,Sans-Serif;
 }
