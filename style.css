@@ -6,12 +6,9 @@ body{
   margin: 0;
 }
 
-.HeaderImage{
-  border: 2px solid #000;
-}
-
 h1{
   font-family:Tahoma,Geneva,Sans-Serif;
+  position: center;
 }
 
 
