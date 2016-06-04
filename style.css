@@ -7,12 +7,11 @@ body{
 }
 
 header {
-  display: flex;
   align-items: center;
 }
 
-}
-h1{
+
+header h1{
   font-family:Tahoma,Geneva,Sans-Serif;
   font-size: 7rem;
 }
