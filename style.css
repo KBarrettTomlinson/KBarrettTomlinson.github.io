@@ -7,7 +7,7 @@ body{
 }
 
 section .row{
-  display: block;
+  display: -webkit-flex;
 }
 
 h1{
