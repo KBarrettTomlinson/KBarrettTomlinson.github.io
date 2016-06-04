@@ -15,4 +15,6 @@ h1{
 p1{
   text-align:center;
   background-color: red;
+  border: 2px solid black;
+  padding: 40px;
 }
