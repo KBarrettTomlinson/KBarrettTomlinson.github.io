@@ -1,5 +1,5 @@
 body{
-  font-family:Tahoma,Geneva,Sans-Serif;
+  font-family:Tahoma,Arial,Sans-Serif;
   background-image:url("https://s3.amazonaws.com/primeacademy/BackgroundImages/blue.jpg");
   background-position: center top;
   background-size: cover;
@@ -7,15 +7,15 @@ body{
 }
 
 section .row{
-  display: center;
+  display: flex;
 }
 
 h1{
-  font-family:Tahoma,Geneva,Sans-Serif;
+  font-family:Tahoma,Arial,Sans-Serif;
   font-size: 7rem;
   text-align: center;
 }
   
 li{
-  font-family:Tahoma,Geneva,Sans-Serif;
+  font-family:Tahoma,Arial,Sans-Serif;
 }
