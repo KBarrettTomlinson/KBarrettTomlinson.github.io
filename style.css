@@ -7,7 +7,7 @@ body{
 }
 
 section .row{
-  display: inline-block;
+  display: block;
 }
 
 h1{
