@@ -6,10 +6,11 @@ body{
   margin: 0;
 }
 
-header .row{
+header {
   display: flex;
   align-items: center;
 }
+
 }
 h1{
   font-family:Tahoma,Geneva,Sans-Serif;
