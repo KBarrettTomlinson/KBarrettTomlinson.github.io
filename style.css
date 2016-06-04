@@ -21,19 +21,25 @@ p1{
 }
 
 p2{
-  text-align: center;
-  background-color: yellow;
+  text-align:center;
+  background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarYellow.jpg");
+  background-position: center top;
+  background-size: cover;
   padding: 20px;
 }
 
 p3{
   text-align:center;
-  background-color: orange;
+  background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarOrange.jpg");
+  background-position: center top;
+  background-size: cover;
   padding: 20px;
 }
 
 p4{
-  text-align:center;
-  background-color: green;
+    text-align:center;
+  background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarGreen.jpg");
+  background-position: center top;
+  background-size: cover;
   padding: 20px;
 }
