@@ -6,12 +6,7 @@ body{
   margin: 0;
 }
 
-header {
-  align-items: center;
-}
-
-
-header h1{
+h1{
   font-family:Tahoma,Geneva,Sans-Serif;
   font-size: 7rem;
 }
