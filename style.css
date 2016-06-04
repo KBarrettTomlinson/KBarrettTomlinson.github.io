@@ -6,7 +6,7 @@ body{
   margin: 0;
 }
 
-section .row{
+.row{
   display: -webkit-flex;
 }
 
