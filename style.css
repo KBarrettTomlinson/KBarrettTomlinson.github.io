@@ -4,6 +4,7 @@ body{
   background-position: center top;
   background-size: cover;
   margin: 0;
+  min-width: 720px;
 }
 
 row{
