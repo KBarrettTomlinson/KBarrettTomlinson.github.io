@@ -69,5 +69,11 @@ p4:hover{
 }
 
 p5{
+  font-size:12px;
+  padding: 20px;
+}
+
+p6{
+  font-size:18px;
   padding: 20px;
 }
