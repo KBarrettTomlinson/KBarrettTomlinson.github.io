@@ -2,7 +2,7 @@ body{
   font-family:Tahoma,Arial,Sans-Serif;
   background-image:url("https://s3.amazonaws.com/primeacademy/BackgroundImages/BackgroundBlue.jpg");
   background-position:center top;
-  background-size:cover;
+  background-size:100% auto;
   margin:0;
 }
 
