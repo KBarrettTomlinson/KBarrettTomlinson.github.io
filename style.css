@@ -17,7 +17,6 @@ p1{
   background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarBlue.jpg");
   background-position: center top;
   background-size: cover;
-  padding: 5px;
   font-size: 24px;
   color: black;
 }
@@ -27,7 +26,6 @@ p2{
   background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarYellow.jpg");
   background-position: center top;
   background-size: cover;
-  padding: 5px;
   font-size: 24px;
   color: white;
 }
@@ -37,7 +35,6 @@ p3{
   background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarOrange.jpg");
   background-position: center top;
   background-size: cover;
-  padding: 5px;
   font-size: 24px;
   color: white;
 }
@@ -47,7 +44,6 @@ p4{
   background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarGreen.jpg");
   background-position: center top;
   background-size: cover;
-  padding: 5px;
   font-size: 24px;
   color: white;
 }
