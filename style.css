@@ -69,16 +69,17 @@ p4:hover{
 }
 
 p5{
-  padding: 20px;
+  padding:20px;
 }
 
 p6{
   text-align:center;
-  font-size:18px;
+  font-size:20px;
   padding:20px;
 }
 
 p7{
   text-align:center;
   padding:20px;
+  font-size:18px;
 }
