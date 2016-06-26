@@ -85,3 +85,9 @@ p7{
   padding:20px;
   font-size:14px;
 }
+
+footer{
+  background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarBlue.jpg");
+  background-position:center top;
+  background-size:cover;
+}
