@@ -1,24 +1,24 @@
 body{
   font-family:Tahoma,Arial,Sans-Serif;
   background-image:url("https://s3.amazonaws.com/primeacademy/BackgroundImages/BackgroundBlue.jpg");
-  background-position: center top;
-  background-size: cover;
-  margin: 0;
+  background-position:center top;
+  background-size:cover;
+  margin:0;
 }
 
 h1{
   font-family:Tahoma,Arial,Sans-Serif;
-  text-align: center;
-  font-size: 72px;
+  text-align:center;
+  font-size:72px;
 }
 
 p1{
   text-align:center;
   background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarBlue.jpg");
-  background-position: center top;
-  background-size: cover;
-  font-size: 24px;
-  color: black;
+  background-position:center top;
+  background-size:cover;
+  font-size:24px;
+  color:black;
   opacity:.5;
 }
 
@@ -29,10 +29,10 @@ p1:hover{
 p2{
   text-align:center;
   background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarYellow.jpg");
-  background-position: center top;
-  background-size: cover;
-  font-size: 24px;
-  color: white;
+  background-position:center top;
+  background-size:cover;
+  font-size:24px;
+  color:white;
   opacity:.5;
 }
 
@@ -43,10 +43,10 @@ p2:hover{
 p3{
   text-align:center;
   background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarOrange.jpg");
-  background-position: center top;
-  background-size: cover;
-  font-size: 24px;
-  color: white;
+  background-position:center top;
+  background-size:cover;
+  font-size:24px;
+  color:white;
   opacity:.5;
 }
 
@@ -57,10 +57,10 @@ p3:hover{
 p4{
   text-align:center;
   background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarGreen.jpg");
-  background-position: center top;
-  background-size: cover;
-  font-size: 24px;
-  color: white;
+  background-position:center top;
+  background-size:cover;
+  font-size:24px;
+  color:white;
   opacity:.5;
 }
 
@@ -69,11 +69,16 @@ p4:hover{
 }
 
 p5{
-  font-size:12px;
   padding: 20px;
 }
 
 p6{
+  text-align:center;
   font-size:18px;
-  padding: 20px;
+  padding:20px;
+}
+
+p7{
+  text-align:center;
+  padding:20px;
 }
