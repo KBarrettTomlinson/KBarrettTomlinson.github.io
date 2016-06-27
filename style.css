@@ -72,20 +72,14 @@ p4:hover{
 
 p5{
   padding:20px;
+  font-size:18px;
 }
 
 p6{
   font-family:Verdana,arial,sans-serif;
   text-align:center;
-  font-size:18px;
+  font-size:24px;
   padding:20px;
-}
-
-p7{
-  font-family:Verdana,arial,sans-serif;
-  text-align:center;
-  padding:20px;
-  font-size:14px;
 }
 
 img{
