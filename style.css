@@ -1,3 +1,7 @@
+.row{
+  min-width:920px;
+}
+
 body{
   font-family:Tahoma,Arial,Sans-Serif;
   background-image:url("https://s3.amazonaws.com/primeacademy/BackgroundImages/BackgroundBlue.jpg");
