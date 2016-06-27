@@ -2,14 +2,19 @@
   min-width:920px;
 }
 
+.navbar{
+  height:70px;
+  min-width:920px;
+}
+
 body{
   font-family:Tahoma,Arial,Sans-Serif;
   background-image:url("https://s3.amazonaws.com/primeacademy/BackgroundImages/BackgroundBlue.jpg");
   background-position:center top;
   background-size:100% auto;
   margin:0;
-  padding-top:70px;
-  padding-bottom:70px;
+  padding-top:80px;
+  padding-bottom:80px;
 }
 
 h1{
