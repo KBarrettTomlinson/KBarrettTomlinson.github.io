@@ -14,12 +14,12 @@ h1{
   font-size:48px;
 }
 
-#about.row{
+/*#about.row{
   background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarBlue.jpg");
   background-position:center top;
   background-size:cover;
   
-}
+}*/
 
 .spacer{
   margin-bottom:40px;
