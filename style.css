@@ -20,6 +20,11 @@ h1{
   background-size:cover;
   
 }
+
+.spacer{
+  margin-bottom:40px;
+}
+
 p1{
   text-align:center;
   background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarBlue.jpg");
