@@ -82,6 +82,7 @@ p4:hover{
 }
 
 p5{
+  border-radius:25px;
   padding:20px;
   opacity:.75;
   background-color:white;
