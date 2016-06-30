@@ -9,11 +9,11 @@ body{
 }
 
 h1{
-  /*font-family:Verdana,Arial,Sans-Serif;*/
-  font-family:"Arial Black",Gadget,Sans-serif;
-  text-align:center;
+  font-family:Verdana,Arial,Sans-Serif;
   font-size:48px;
   font-weight:bold;
+  text-align:left;
+  color:white;
 }
 
 /*#about.row{
