@@ -23,6 +23,12 @@ h1{
   
 }*/
 
+#footer.navbar{
+  background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/TreeAndMoss.jpg");
+  background-position:center top;
+  background-size:cover;
+}
+
 .spacer{
   margin-bottom:40px;
 }
