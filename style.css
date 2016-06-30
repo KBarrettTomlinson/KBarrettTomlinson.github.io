@@ -2,7 +2,7 @@ body{
   font-family:Tahoma,Arial,Sans-Serif;
   background-image:url("https://s3.amazonaws.com/primeacademy/BackgroundImages/BackgroundBlue.jpg");
   background-position:center top;
-  background-size:100% auto;
+  background-size:cover;
   margin:0;
   padding-top:70px;
   padding-bottom:70px;
@@ -34,11 +34,11 @@ p1{
   background-size:cover;
   font-size:24px;
   color:white;
-  opacity:.75;
+  opacity:1;
 }
 
 p1:hover{
-  opacity:1;
+  color:black;
 }
 
 p2{
@@ -48,11 +48,11 @@ p2{
   background-size:cover;
   font-size:24px;
   color:white;
-  opacity:.75;
+  opacity:1;
 }
 
 p2:hover{
-  opacity:1;
+  color:black;
 }
 
 p3{
@@ -62,11 +62,11 @@ p3{
   background-size:cover;
   font-size:24px;
   color:white;
-  opacity:.75;
+  opacity:1;
 }
 
 p3:hover{
-  opacity:1;
+  color:black;
 }
 
 p4{
@@ -76,11 +76,11 @@ p4{
   background-size:cover;
   font-size:24px;
   color:white;
-  opacity:.75;
+  opacity:1;
 }
 
 p4:hover{
-  opacity:1;
+  color:black;
 }
 
 p5{
