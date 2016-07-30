@@ -22,6 +22,7 @@ h1{
   background-position:center;
   background-size:cover;
   margin:0;
+  opacity:.5;
 }
 
 #header.navbar{
@@ -64,8 +65,8 @@ p2{
   background-size:cover;
   color:#606060;
   font-size:24px;
-  height:60px;
-  padding:10px;
+  height:50px;
+  padding:5px;
   text-align:center;
 }
 
@@ -80,7 +81,7 @@ p3{
   color:#606060;
   font-size:24px;
   height:50px;
-  padding:8px;
+  padding:5px;
   text-align:center;
 }
 
@@ -94,8 +95,8 @@ p4{
   background-size:cover;
   color:#606060;
   font-size:24px;
-  height:55px;
-  padding:8px;
+  height:50px;
+  padding:5px;
   text-align:center;
 }
 
@@ -116,7 +117,6 @@ p6{
   font-family:Verdana,arial,sans-serif;
   font-size:18px;
   height:50px;
-  opacity:.5;
   padding:5px;
   text-align:center;
 }
