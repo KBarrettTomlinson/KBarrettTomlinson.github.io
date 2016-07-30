@@ -75,7 +75,7 @@ p2:hover{
 
 p3{
   background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarOrange.jpg");
-  background-position:center top;
+  background-position:center;
   background-size:cover;
   color:#606060;
   font-size:24px;
@@ -90,7 +90,7 @@ p3:hover{
 
 p4{
   background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarGreen.jpg");
-  background-position:center top;
+  background-position:center;
   background-size:cover;
   color:#606060;
   font-size:24px;
