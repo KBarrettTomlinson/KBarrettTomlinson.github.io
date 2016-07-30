@@ -2,9 +2,9 @@ body{
   background-attachment:fixed;
   background-image:url("https://s3.amazonaws.com/primeacademy/BackgroundImages/BackgroundBlue.jpg");
   background-position:center top;
-  background-size:auto;
+  background-size:cover;
   font-family:Tahoma,Arial,Sans-Serif;
-  margin:0;
+  margin:-5;
   /*padding-top:70px;
   padding-bottom:70px;*/
 }
