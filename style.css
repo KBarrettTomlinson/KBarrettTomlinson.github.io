@@ -66,6 +66,7 @@ p2{
   background-size:cover;
   color:white;
   font-size:24px;
+  height:60px;
   opacity:1;
   text-align:center;
 }
@@ -80,6 +81,7 @@ p3{
   background-size:cover;
   color:white;
   font-size:24px;
+  height:60px;
   opacity:1;
   text-align:center;
 }
@@ -94,6 +96,7 @@ p4{
   background-size:cover;
   color:white;
   font-size:24px;
+  height:60px;
   opacity:1;
   text-align:center;
 }
@@ -115,10 +118,9 @@ p6{
   font-family:Verdana,arial,sans-serif;
   font-size:20px;
   font-weight:500;
-  height:70px;
+  height:60px;
   padding:10px;
   text-align:center;
-  text-shadow: 0px 0px 3px #000, -1px -1px #000, 1px 1px #000;
 }
 
 .spacer{
