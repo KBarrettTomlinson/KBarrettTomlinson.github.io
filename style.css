@@ -54,6 +54,7 @@ p1{
   font-size:24px;
   opacity:1;
   text-align:center;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 
 p1:hover{
@@ -68,6 +69,7 @@ p2{
   font-size:24px;
   opacity:1;
   text-align:center;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 
 p2:hover{
@@ -82,6 +84,7 @@ p3{
   font-size:24px;
   opacity:1;
   text-align:center;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 
 p3:hover{
@@ -96,6 +99,7 @@ p4{
   font-size:24px;
   opacity:1;
   text-align:center;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 
 p4:hover{
@@ -116,6 +120,7 @@ p6{
   font-size:18px;
   padding:20px;
   text-align:center;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 
 .spacer{
