@@ -41,7 +41,6 @@ img{
   color: #999999;
   height: 500px;
   margin:10px;
-  text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 
 p1{
@@ -120,7 +119,6 @@ p6{
   color:#606060;
   font-family:Verdana,arial,sans-serif;
   font-size:20px;
-  font-weight:600;
   height:65px;
   padding:6px;
   text-align:center;
