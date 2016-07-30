@@ -48,7 +48,7 @@ p1{
   background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarBlue.jpg");
   background-position:center top;
   background-size:cover;
-  color:666666;
+  color:#606060;
   font-size:24px;
   height:60px;
   opacity:1;
@@ -57,14 +57,14 @@ p1{
 }
 
 p1:hover{
-  color:black;
+  color:#ffffff;
 }
 
 p2{
   background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarYellow.jpg");
   background-position:center top;
   background-size:cover;
-  color:808080;
+  color:#606060;
   font-size:24px;
   height:60px;
   opacity:1;
@@ -73,14 +73,14 @@ p2{
 }
 
 p2:hover{
-  color:black;
+  color:#ffffff;
 }
 
 p3{
   background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarOrange.jpg");
   background-position:center top;
   background-size:cover;
-  color:white;
+  color:#606060;
   font-size:24px;
   height:60px;
   opacity:1;
@@ -89,14 +89,14 @@ p3{
 }
 
 p3:hover{
-  color:black;
+  color:#ffffff;
 }
 
 p4{
   background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarGreen.jpg");
   background-position:center top;
   background-size:cover;
-  color:white;
+  color:#606060;
   font-size:24px;
   height:60px;
   opacity:1;
@@ -105,7 +105,7 @@ p4{
 }
 
 p4:hover{
-  color:black;
+  color:#ffffff;
 }
 
 p5{
