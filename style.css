@@ -26,7 +26,6 @@ h1{
 }
 
 #header.navbar{
-  background-color:#778899;
   margin:0;
 }
 
@@ -48,7 +47,7 @@ img{
 
 p1{
   background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarBlue.jpg");
-  background-position:center;
+  background-position:center top;
   background-size:cover;
   color:white;
   font-size:24px;
