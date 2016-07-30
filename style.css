@@ -22,11 +22,13 @@ h1{
   background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarTree.jpg");
   background-position:center;
   background-size:cover;
+  height:50px;
   margin:0;
 }
 
 #header.navbar{
   background-color:#778899;
+  height:50px;
   margin:0;
 }
 
