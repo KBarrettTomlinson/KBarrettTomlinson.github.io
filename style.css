@@ -6,12 +6,12 @@ body{
   background-size:cover;
   font-family:Tahoma,Arial,Sans-Serif;
   margin:0;
-  padding-top:70px;
-  padding-bottom:70px;
+  padding-top:50px;
+  padding-bottom:50px;
 }
 
 h1{
-  color:black;
+  color:white;
   font-family:Verdana,Arial,Sans-Serif;
   font-size:36px;
   font-weight:bold;
@@ -28,7 +28,6 @@ h1{
 #header.navbar{
   background-color:#778899;
   margin:0;
-  opacity:1;
 }
 
 img{
