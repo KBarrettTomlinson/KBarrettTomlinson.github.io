@@ -116,6 +116,7 @@ p6{
   font-size:18px;
   padding:10px;
   text-align:center;
+  text-shadow: 6px 6px 0px rgba(0,0,0,0.2);
 }
 
 .spacer{
