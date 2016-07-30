@@ -20,7 +20,7 @@ h1{
 
 #footer.navbar{
   background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarTree.jpg");
-  background-position:center top;
+  background-position:center;
   background-size:cover;
   margin:0;
 }
