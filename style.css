@@ -36,7 +36,7 @@ img{
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EmploymentPeaceCoffee3JumboImage.jpg');
+  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EmploymentPeaceCoffee1JumboImage.jpg');
   background-size: cover;
   color: #606060;
   height: 500px;
