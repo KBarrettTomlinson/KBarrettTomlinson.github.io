@@ -33,7 +33,79 @@ img{
   padding:20px;
 }
 
-#home.jumbotron {
+/*JUMBOTRON SECTION*/
+
+#About.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/AboutJumboImage.jpg');
+  background-size: cover;
+  color: #606060;
+  height: 500px;
+  margin:10px;
+}
+
+#Education.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EducationImage.jpg');
+  background-size: cover;
+  color: #606060;
+  height: 500px;
+  margin:10px;
+}
+
+#EmploymentBarista.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EmploymentBaristaJumboImage.jpg');
+  background-size: cover;
+  color: #606060;
+  height: 500px;
+  margin:10px;
+}
+
+#EmploymentHistory.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EmploymentHistoryJumboImage.jpg');
+  background-size: cover;
+  color: #606060;
+  height: 500px;
+  margin:10px;
+}
+
+#EmploymentPeaceCoffee1.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EmploymentPeaceCoffee1JumboImage.jpg');
+  background-size: cover;
+  color: #606060;
+  height: 500px;
+  margin:10px;
+}
+
+#EmploymentPeaceCoffee2.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EmploymentPeaceCoffee2JumboImage.jpg');
+  background-size: cover;
+  color: #606060;
+  height: 500px;
+  margin:10px;
+}
+
+#EmploymentPeaceCoffee3.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EmploymentPeaceCoffee3JumboImage.jpg');
+  background-size: cover;
+  color: #606060;
+  height: 500px;
+  margin:10px;
+}
+
+#Home.jumbotron {
   display: flex;
   align-items: center;
   background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/HomeJumboImage.jpg');
@@ -42,6 +114,8 @@ img{
   height: 500px;
   margin:10px;
 }
+
+/*END JUMBOTRON SECTION*/
 
 p1{
   background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarBlue.jpg");
