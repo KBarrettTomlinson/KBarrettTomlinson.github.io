@@ -105,7 +105,7 @@ img{
   margin:10px;
 }
 
-#Home.jumbotron {
+#home.jumbotron {
   display: flex;
   align-items: center;
   background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/HomeJumboImage.jpg');
