@@ -33,7 +33,7 @@ img{
   padding:20px;
 }
 
-.jumbotron {
+.jumbotron1 {
   display: flex;
   align-items: center;
   background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/HomeJumboImage.jpg');
