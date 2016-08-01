@@ -1,5 +1,10 @@
 var main=function()
 {
+  
+  
+  
+  
+/*
 $('.jumbotron').hide()
 $('home.jumbotron').show()
 $('.p1').click(function()
@@ -26,6 +31,7 @@ $('.p4').click(function()
   $('EmploymentBarista.jumbotron').show();
   $('EmploymentPeaceCoffee3.jumbotron').show();
   }
+*/
 
 ); 
 };
