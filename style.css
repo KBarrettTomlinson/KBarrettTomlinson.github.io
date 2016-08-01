@@ -48,7 +48,7 @@ img{
 #Education.jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EducationImage.jpg');
+  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EducationJumboImage.jpg');
   background-size: cover;
   color: #606060;
   height: 500px;
