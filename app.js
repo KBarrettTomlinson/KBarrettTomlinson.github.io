@@ -21,14 +21,11 @@ $('p4').click(function()
   {
   $('jumbotron').hide();
   $('EmploymentHistory.jumbotron').show();
-  $('EmploymentHistory.jumbotron').show();
-  $('EmploymentHistory.jumbotron').show();
-  $('EmploymentHistory.jumbotron').show();
-  $('EmploymentHistory.jumbotron').show();
+  $('EmploymentPeaceCoffee1.jumbotron').show();
+  $('EmploymentPeaceCoffee2.jumbotron').show();
+  $('EmploymentBarista.jumbotron').show();
+  $('EmploymentPeaceCoffee3.jumbotron').show();
   }
-
-
-
 
 ); 
 };
