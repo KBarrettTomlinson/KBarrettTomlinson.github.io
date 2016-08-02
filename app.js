@@ -1,6 +1,6 @@
 var main=function()
 {
-$('p1').click(function()
+$('.jumbotron').click(function()
 {$('.Home.jumbotron').hide()}
 
 /*
