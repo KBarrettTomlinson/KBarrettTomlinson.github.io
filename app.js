@@ -4,7 +4,7 @@ $('.tab').click(function()
 {
 $('.tab').removeClass('current');
 $(this).addClass('current');
-$('.jumbotrons').show();
+$('.jumbotron').removeClass('hide');
 }
 
 /*
