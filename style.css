@@ -123,10 +123,6 @@ p1{
   text-align:center;
 }
 
-p1:active{
-  color:black;
-}
-
 p1:hover{
   color:#606060;
 }
