@@ -34,7 +34,7 @@ h1{
 
 /*JUMBOTRON SECTION*/
 
-#About.jumbotron {
+.About {
   display: flex;
   align-items: center;
   background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/AboutJumboImage.jpg');
