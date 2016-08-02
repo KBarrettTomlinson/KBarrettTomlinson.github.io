@@ -3,7 +3,7 @@ var main=function()
 $('.p1').click(function()
 {
 $('.tab').removeClass('current');
-$(''.p1').addClass('current');
+$('p1').addClass('current');
 $('.jumbotrons').hide();
 }
 
