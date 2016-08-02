@@ -115,7 +115,7 @@ h1{
 }
 
 /*END JUMBOTRON SECTION*/
-
+/*
 p1{
   background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarBlue.jpg");
   background-position:center;
@@ -179,7 +179,7 @@ p4{
 p4:hover{
   color:#ffffff;
 }
-
+*/
 p6{
   color:#606060;
   font-family:Verdana,arial,sans-serif;
@@ -187,6 +187,38 @@ p6{
   height:50px;
   padding:5px;
   text-align:center;
+}
+
+
+.tab{
+  background-position:center;
+  background-size:cover;
+  color:#606060;
+  cursor:pointer;
+  font-size:24px;
+  height:50px;
+  padding:5px;
+  text-align:center;  
+}
+
+.tab:hover{
+  color:#ffffff;
+}
+
+#About.tab{
+  background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarBlue.jpg");
+}
+
+#Home.tab{
+  background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarBlue.jpg");
+}
+
+#Education.tab{
+  background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarBlue.jpg");
+}
+
+#Resume.tab{
+  background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarBlue.jpg");
 }
 
 .spacer{
