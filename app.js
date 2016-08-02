@@ -1,13 +1,11 @@
 var main=function()
 {
+$('p1').click(function()
+{$('.Home.jumbotron').hide()}
 
-$('.p1').click(function()
-  {$('.p2').hide();}
-  
-  
 /*
 $('.jumbotron').hide()
-$('home.jumbotron').show()
+$('Home.jumbotron').show()
 $('.p1').click(function()
   {
   $('.jumbotron').hide();
