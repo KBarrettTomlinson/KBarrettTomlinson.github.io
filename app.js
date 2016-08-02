@@ -1,9 +1,9 @@
 var main=function()
 {
-$('p1').click(function()
+$('.tab').click(function()
 {
 $('.tab').removeClass('current');
-$('p1').addClass('current');
+$(this).addClass('current');
 $('.jumbotrons').hide();
 }
 
