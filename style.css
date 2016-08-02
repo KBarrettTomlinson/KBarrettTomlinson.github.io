@@ -210,15 +210,15 @@ p:hover{
 }
 
 #Home.tab{
-  background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarBlue.jpg");
+  background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarOrange.jpg");
 }
 
 #Education.tab{
-  background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarBlue.jpg");
+  background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarGreen.jpg");
 }
 
 #Resume.tab{
-  background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarBlue.jpg");
+  background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarYellow.jpg");
 }
 
 .spacer{
