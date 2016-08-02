@@ -2,7 +2,7 @@ var main=function()
 {
 $('.tab').click(function()
 {
-$('tab').removeClass('current');
+$('.tab').removeClass('current');
 $(this).addClass('current');
 }
 
