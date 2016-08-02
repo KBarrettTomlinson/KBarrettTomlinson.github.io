@@ -104,7 +104,7 @@ h1{
   margin:10px;
 }
 
-#Home.jumbotron {
+#JHome.jumbotron {
   display: flex;
   align-items: center;
   background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/HomeJumboImage.jpg');
@@ -205,7 +205,7 @@ p:hover{
   color:#ffffff;
 }
 
-#Home.tab{
+#NHome.tab{
   background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarYellow.jpg");
 }
 
