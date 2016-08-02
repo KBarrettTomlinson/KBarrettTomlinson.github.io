@@ -1,6 +1,6 @@
 var main=function()
 {
-$('.p1').click(function()
+$('p1').click(function()
 {
 $('.tab').removeClass('current');
 $('p1').addClass('current');
