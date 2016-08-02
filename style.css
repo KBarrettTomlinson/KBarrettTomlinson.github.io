@@ -190,7 +190,7 @@ p6{
 }
 
 
-.tab{
+tab{
   background-position:center;
   background-size:cover;
   color:#606060;
@@ -201,7 +201,7 @@ p6{
   text-align:center;  
 }
 
-.tab:hover{
+tab:hover{
   color:#ffffff;
 }
 
