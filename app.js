@@ -5,7 +5,7 @@ $('.tab').click(function()
 $('.tab').removeClass('current');
 $(this).addClass('current');
 $('.jumbotrons').hide();
-$('#Home.jumbotron').show();
+$('Home.jumbotron').show();
 }
 
 /*
