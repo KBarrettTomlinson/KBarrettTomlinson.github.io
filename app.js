@@ -1,7 +1,10 @@
 var main=function()
 {
-$('.jumbotron').click(function()
-{$('.Home.jumbotron').hide()}
+$('.tab').click(function()
+{
+$('tab').removeClass('current');
+$(this).addClass('current');
+}
 
 /*
 $('.jumbotron').hide()
