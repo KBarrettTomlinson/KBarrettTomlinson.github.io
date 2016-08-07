@@ -1,12 +1,26 @@
 var main=function()
 {
+  
+$('.tab').live('click',function()
+{
+ var id=$(this).attr('id');
+ if(id==="HAbout")
+  {
+  $('.tab').removeClass('current');
+  $(this).addClass('current');
+  $('.jumbotron').removeClass('hide');
+  }
+}
+
+
+/*
 $('.tab').click(function()
 {
 $('.tab').removeClass('current');
 $(this).addClass('current');
 $('.jumbotron').removeClass('hide');
 }
-
+*/
 /*
 $('.jumbotron').hide()
 $('Home.jumbotron').show()
