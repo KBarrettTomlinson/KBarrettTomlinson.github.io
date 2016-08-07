@@ -34,7 +34,7 @@ $('.tab').on("click",function()
     $("#JEmploymentBarista.jumbotron").addClass('hide');
     $("#JEmploymentPeaceCoffee3.jumbotron").addClass('hide');
     }
-      else if(id==="HResume")
+      else if(id==="HEducation")
       {
       $('.tab').removeClass('current');
       $(this).addClass('current');
