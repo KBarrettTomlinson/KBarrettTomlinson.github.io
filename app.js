@@ -19,8 +19,7 @@ $('.tab').on("click",function()
   $("#JEmploymentBarista.jumbotron").addClass('hide');
   $("#JEmploymentPeaceCoffee3.jumbotron").addClass('hide');
   }
-  
+}  
 ); 
 };
 $(document).ready(main);
-
