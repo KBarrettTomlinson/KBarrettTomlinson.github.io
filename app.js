@@ -9,7 +9,7 @@ $('.tab').on("click",function()
   $('.tab').removeClass('current');
   $(this).addClass('current');
   $('.jumbotron').removeClass('hide');
-  $('#JHome.jumbotron').addClass('hide');
+  $('JHome jumbotron').addClass('hide');
   }
 }
 
