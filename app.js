@@ -10,7 +10,7 @@ $('.tab').on("click",function()
   $(this).addClass('current');
   $('.jumbotron').removeClass('hide');
   $('.jumbotron').removeClass('show');
-  $("#Jhome.jumbotron").addClass('hide');
+  $("#JHome.jumbotron").addClass('hide');
   $("#JAbout.jumbotron").addClass('show');
   $("#JEducation.jumbotron").addClass('hide');
   $("#JEmploymentHistory.jumbotron").addClass('hide');
