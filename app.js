@@ -9,8 +9,26 @@ $('.tab').on("click",function()
   $('.tab').removeClass('current');
   $(this).addClass('current');
   $('.jumbotron').removeClass('hide');
-  $("#JHome.jumbotron").addClass('hide');
+  $('.jumbotron').removeClass('show');
+  $("#Jhome.jumbotron").addClass('hide');
+  $("#JAbout.jumbotron").addClass('show');
+  $("#JEducation.jumbotron").addClass('hide');
+  $("#JEmploymentHistory.jumbotron").addClass('hide');
+  $("#JEmploymentHistory.jumbotron").addClass('hide');
+  $("#JEmploymentHistory.jumbotron").addClass('hide');
+  $("#JEmploymentHistory.jumbotron").addClass('hide');
+  $("#JEmploymentHistory.jumbotron").addClass('hide');
   }
+  
+  /*
+  else if(id==="HEducation")
+    {
+    $('.tab').removeClass('current');
+    $(this).addClass('current');
+    $('.jumbotron').removeClass('hide');
+    $()
+    }
+    */
 }
 
 
