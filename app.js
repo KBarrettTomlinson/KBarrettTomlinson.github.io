@@ -19,6 +19,22 @@ $('.tab').on("click",function()
   $("#JEmploymentBarista.jumbotron").addClass('hide');
   $("#JEmploymentPeaceCoffee3.jumbotron").addClass('hide');
   }
+    else if(id==="HHome")
+    {
+    $('.tab').removeClass('current');
+    $(this).addClass('current');
+    $('.jumbotron').removeClass('hide');
+    $('.jumbotron').removeClass('show');
+    $("#JHome.jumbotron").addClass('show');
+    $("#JAbout.jumbotron").addClass('hide');
+    $("#JEducation.jumbotron").addClass('hide');
+    $("#JEmploymentHistory.jumbotron").addClass('hide');
+    $("#JEmploymentPeaceCoffee1.jumbotron").addClass('hide');
+    $("#JEmploymentPeaceCoffee2.jumbotron").addClass('hide');
+    $("#JEmploymentBarista.jumbotron").addClass('hide');
+    $("#JEmploymentPeaceCoffee3.jumbotron").addClass('hide');
+    }
+    
 }  
 ); 
 };
