@@ -1,7 +1,7 @@
 var main=function()
 {
   
-$('.tab').on("click",".tab",function()
+$('.tab').on('click','.tab',function()
 {
  var id=$(this).attr('id');
  if(id==="HAbout")
