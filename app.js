@@ -14,10 +14,10 @@ $('.tab').on("click",function()
   $("#JAbout.jumbotron").addClass('show');
   $("#JEducation.jumbotron").addClass('hide');
   $("#JEmploymentHistory.jumbotron").addClass('hide');
-  $("#JEmploymentHistory.jumbotron").addClass('hide');
-  $("#JEmploymentHistory.jumbotron").addClass('hide');
-  $("#JEmploymentHistory.jumbotron").addClass('hide');
-  $("#JEmploymentHistory.jumbotron").addClass('hide');
+  $("#JEmploymentPeaceCoffee1.jumbotron").addClass('hide');
+  $("#JEmploymentPeaceCoffee2.jumbotron").addClass('hide');
+  $("#JEmploymentBarista.jumbotron").addClass('hide');
+  $("#JEmploymentPeaceCoffee3.jumbotron").addClass('hide');
   }
   
   /*
