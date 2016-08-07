@@ -34,7 +34,7 @@ $('.tab').on("click",function()
     $("#JEmploymentBarista.jumbotron").addClass('hide');
     $("#JEmploymentPeaceCoffee3.jumbotron").addClass('hide');
     }
-      else if(id==="HEducation")
+      else if(id==="HResume")
       {
       $('.tab').removeClass('current');
       $(this).addClass('current');
@@ -42,14 +42,13 @@ $('.tab').on("click",function()
       $('.jumbotron').removeClass('show');
       $("#JHome.jumbotron").addClass('hide');
       $("#JAbout.jumbotron").addClass('hide');
-      $("#JEducation.jumbotron").addClass('show');
-      $("#JEmploymentHistory.jumbotron").addClass('hide');
-      $("#JEmploymentPeaceCoffee1.jumbotron").addClass('hide');
-      $("#JEmploymentPeaceCoffee2.jumbotron").addClass('hide');
-      $("#JEmploymentBarista.jumbotron").addClass('hide');
-      $("#JEmploymentPeaceCoffee3.jumbotron").addClass('hide');
+      $("#JEducation.jumbotron").addClass('hide');
+      $("#JEmploymentHistory.jumbotron").addClass('show');
+      $("#JEmploymentPeaceCoffee1.jumbotron").addClass('show');
+      $("#JEmploymentPeaceCoffee2.jumbotron").addClass('show');
+      $("#JEmploymentBarista.jumbotron").addClass('show');
+      $("#JEmploymentPeaceCoffee3.jumbotron").addClass('show');
       }
-    
 }  
 ); 
 };
