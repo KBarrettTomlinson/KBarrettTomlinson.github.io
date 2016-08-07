@@ -14,13 +14,7 @@ body{
   color:#ffffff;
 }
 
-h1{
-  font-family:Verdana,Arial,Sans-Serif;
-  font-size:36px;
-  font-weight:bold;
-  text-align:center;
-}
-
+/*FOOTER SECTION*/
 #footer.navbar{
   background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarRed3.jpg");
   background-position:center bottom;
@@ -28,158 +22,6 @@ h1{
   margin:0;
 }
 
-#header.navbar{
-  margin:0;
-}
-
-/*JUMBOTRON SECTION*/
-
-#About.jumbotron {
-  display: flex;
-  align-items: center;
-  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/AboutJumboImage.jpg');
-  background-size: cover;
-  color: #606060;
-  height: 500px;
-  margin:10px;
-}
-
-#Education.jumbotron {
-  display: flex;
-  align-items: center;
-  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EducationJumboImage.jpg');
-  background-size: cover;
-  color: #606060;
-  height: 500px;
-  margin:10px;
-}
-
-#EmploymentBarista.jumbotron {
-  display: flex;
-  align-items: center;
-  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EmploymentBaristaJumboImage.jpg');
-  background-size: cover;
-  color: #606060;
-  height: 500px;
-  margin:10px;
-}
-
-#EmploymentHistory.jumbotron {
-  display: flex;
-  align-items: center;
-  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EmploymentHistoryJumboImage.jpg');
-  background-size: cover;
-  color: #606060;
-  height: 500px;
-  margin:10px;
-}
-
-#EmploymentPeaceCoffee1.jumbotron {
-  display: flex;
-  align-items: center;
-  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EmploymentPeaceCoffee1JumboImage.jpg');
-  background-size: cover;
-  color: #606060;
-  height: 500px;
-  margin:10px;
-}
-
-#EmploymentPeaceCoffee2.jumbotron {
-  display: flex;
-  align-items: center;
-  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EmploymentPeaceCoffee2JumboImage.jpg');
-  background-size: cover;
-  color: #606060;
-  height: 500px;
-  margin:10px;
-}
-
-#EmploymentPeaceCoffee3.jumbotron {
-  display: flex;
-  align-items: center;
-  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EmploymentPeaceCoffee3JumboImage.jpg');
-  background-size: cover;
-  color: #606060;
-  height: 500px;
-  margin:10px;
-}
-
-#JHome.jumbotron {
-  display: flex;
-  align-items: center;
-  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/HomeJumboImage.jpg');
-  background-size: cover;
-  color: #606060;
-  height: 500px;
-  margin:10px;
-}
-
-/*END JUMBOTRON SECTION*/
-/*
-p1{
-  background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarBlue.jpg");
-  background-position:center;
-  background-size:cover;
-  color:#606060;
-  cursor:pointer;
-  font-size:24px;
-  height:50px;
-  padding:5px;
-  text-align:center;
-}
-
-p1:hover{
-  color:#ffffff;
-}
-
-p2{
-  background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarYellow.jpg");
-  background-position:center;
-  background-size:cover;
-  color:#606060;
-  cursor:pointer;
-  font-size:24px;
-  height:50px;
-  padding:5px;
-  text-align:center;
-}
-
-p2:hover{
-  color:#ffffff;
-}
-
-p3{
-  background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarOrange.jpg");
-  background-position:center;
-  background-size:cover;
-  color:#606060;
-  cursor:pointer;
-  font-size:24px;
-  height:50px;
-  padding:5px;
-  text-align:center;
-}
-
-p3:hover{
-  color:#ffffff;
-}
-
-p4{
-  background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarGreen.jpg");
-  background-position:center;
-  background-size:cover;
-  color:#606060;
-  cursor:pointer;
-  font-size:24px;
-  height:50px;
-  padding:5px;
-  text-align:center;
-}
-
-p4:hover{
-  color:#ffffff;
-}
-*/
 p6{
   color:#606060;
   font-family:Verdana,arial,sans-serif;
@@ -188,9 +30,38 @@ p6{
   padding:5px;
   text-align:center;
 }
+/*END FOOTER SECTION*/
 
+h1{
+  font-family:Verdana,Arial,Sans-Serif;
+  font-size:36px;
+  font-weight:bold;
+  text-align:center;
+}
 
-p{
+/*HEADER SECTION*/
+
+#HAbout.tab{
+  background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarGreen.jpg");
+}
+
+#HEducation.tab{
+  background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarOrange.jpg");
+}
+
+#HHome.tab{
+  background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarYellow.jpg");
+}
+
+#HResume.tab{
+  background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarBlue.jpg");
+}
+
+#header.navbar{
+  margin:0;
+}
+
+p1{
   background-position:center;
   background-size:cover;
   color:#606060;
@@ -205,21 +76,52 @@ p:hover{
   color:#ffffff;
 }
 
-#HHome.tab{
-  background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarYellow.jpg");
+/*END HEADER SECTION*/
+
+
+/*JUMBOTRON SECTION*/
+
+#JAbout.jumbotron {
+  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/AboutJumboImage.jpg');
 }
 
-#About.tab{
-  background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarGreen.jpg");
+#JEducation.jumbotron {
+  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EducationJumboImage.jpg');
 }
 
-#Education.tab{
-  background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarOrange.jpg");
+#JEmploymentBarista.jumbotron {
+  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EmploymentBaristaJumboImage.jpg');
 }
 
-#Resume.tab{
-  background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarBlue.jpg");
+#JEmploymentHistory.jumbotron {
+  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EmploymentHistoryJumboImage.jpg');
 }
+
+#JEmploymentPeaceCoffee1.jumbotron {
+  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EmploymentPeaceCoffee1JumboImage.jpg');
+}
+
+#JEmploymentPeaceCoffee2.jumbotron {
+  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EmploymentPeaceCoffee2JumboImage.jpg');
+}
+
+#JEmploymentPeaceCoffee3.jumbotron {
+  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EmploymentPeaceCoffee3JumboImage.jpg');
+}
+
+#JHome.jumbotron {
+  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/HomeJumboImage.jpg');
+}
+
+.jumbotron{
+  align-items:center;
+  background-size: cover;
+  color:#606060;
+  display:flex;
+  height:500px;
+  margin:10px;
+}
+/*END JUMBOTRON SECTION*/
 
 .spacer{
   margin-bottom:40px;
