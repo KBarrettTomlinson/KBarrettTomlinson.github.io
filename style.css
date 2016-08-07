@@ -10,10 +10,6 @@ body{
   padding-bottom:70px;
 }
 
-document{
-  margin-right:20px;
-}
-
 .current{
   color:#ffffff;
 }
@@ -82,6 +78,9 @@ p1:hover{
 
 /*END HEADER SECTION*/
 
+html{
+  overflow-y:scroll;
+}
 
 /*JUMBOTRON SECTION*/
 
