@@ -85,8 +85,9 @@ html{
 /*JUMBOTRON SECTION*/
 
 h2{
- font-size:20px;
  color:#606060;
+ font-size:15px;
+ text-align:center;
 }
 
 #JAbout.jumbotron {
