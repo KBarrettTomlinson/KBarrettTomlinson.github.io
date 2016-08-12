@@ -84,11 +84,6 @@ html{
 
 /*JUMBOTRON SECTION*/
 
-div#JHome {
-    display:flex;		
-    align-items:flex-end;
-}
-
 #JAbout.jumbotron {
   background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/AboutJumboImage.jpg');
 }
@@ -121,7 +116,8 @@ div#JHome {
   background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/HomeJumboImage.jpg');
 }
 
-.jumbotron{
+.container .jumbotron{
+  align-items: flex-end;
   background-size: cover;
   color:#606060;
   display:flex;
