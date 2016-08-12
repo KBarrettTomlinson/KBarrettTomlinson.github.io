@@ -95,7 +95,6 @@ h2{
 }
 
 #JEducation.jumbotron {
-  align-items: flex-end;
   background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EducationJumboImage.jpg');
 }
 
@@ -124,6 +123,7 @@ h2{
 }
 
 .jumbotron{
+  align-items: flex-end;
   background-size: cover;
   color:#606060;
   display:flex;
