@@ -85,7 +85,8 @@ html{
 /*JUMBOTRON SECTION*/
 
 h2{
- color:#ffffff;
+ color:#606060;
+ font-family:Verdana,Arial,Sans-Serif;
  font-size:20px;
  text-align:left;
 }
