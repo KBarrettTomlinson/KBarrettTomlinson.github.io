@@ -85,7 +85,6 @@ html{
 /*JUMBOTRON SECTION*/
 
 .container .jumbotron h2{
- left:10px;
  font-size:20px;
  color:#606060;
 }
@@ -123,7 +122,6 @@ html{
 }
 
 .jumbotron{
-  align-items: flex-end;
   background-size: cover;
   color:#606060;
   display:flex;
