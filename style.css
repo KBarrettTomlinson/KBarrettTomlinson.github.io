@@ -85,10 +85,25 @@ html{
 /*JUMBOTRON SECTION*/
 
 h2{
- color:#606060;
+ color:#ffffff;
  font-family:Verdana,Arial,Sans-Serif;
  font-size:20px;
  text-align:left;
+}
+
+h3{
+  color:#ffffff;
+  font-family:Verdana,Arial,Sans-Serif;
+  font-size:16px;
+  text-align:right;
+}
+
+h4{
+  color:#ffffff;
+  font-family:Verdana,Arial,Sans-Serif;
+  font-size:16px;
+  font-style:italic;
+  text-align:left;
 }
 
 #JAbout.jumbotron {
