@@ -90,7 +90,7 @@ html{
 }
 
 #JEducation.jumbotron {
-  align-items:bottom;
+  align-items:flex-end;
   background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EducationJumboImage.jpg');
 }
 
@@ -115,6 +115,7 @@ html{
 }
 
 #JHome.jumbotron {
+  align-items:center;
   background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/HomeJumboImage.jpg');
 }
 
