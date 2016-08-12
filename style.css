@@ -84,13 +84,16 @@ html{
 
 /*JUMBOTRON SECTION*/
 
+div#JHome {
+    display:flex;		
+    align-items:flex-end;
+}
+
 #JAbout.jumbotron {
-  align-items:flex-end;
   background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/AboutJumboImage.jpg');
 }
 
 #JEducation.jumbotron {
-  align-items:flex-end;
   background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EducationJumboImage.jpg');
 }
 
@@ -115,7 +118,6 @@ html{
 }
 
 #JHome.jumbotron {
-  align-items:center;
   background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/HomeJumboImage.jpg');
 }
 
