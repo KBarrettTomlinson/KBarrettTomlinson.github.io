@@ -98,11 +98,6 @@ h2{
   background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EducationJumboImage.jpg');
 }
 
-div#JEducation{
-  display:flex;		
-  align-items:center;
-}
-
 #JEmploymentBarista.jumbotron {
   background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EmploymentBaristaJumboImage.jpg');
 }
