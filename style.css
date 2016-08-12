@@ -85,7 +85,7 @@ html{
 /*JUMBOTRON SECTION*/
 
 #JAbout.jumbotron {
-  align-items:center;
+  align-items:flex-end;
   background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/AboutJumboImage.jpg');
 }
 
