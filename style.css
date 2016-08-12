@@ -123,6 +123,7 @@ h2{
 }
 
 .jumbotron{
+  align-items: flex-end;
   background-size: cover;
   color:#606060;
   display:flex;
