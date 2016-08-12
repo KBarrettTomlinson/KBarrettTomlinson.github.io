@@ -84,8 +84,7 @@ html{
 
 /*JUMBOTRON SECTION*/
 
- .jumbotron h2{
- margin-top:90%; 
+h2{
  left:10px;
  font-size:30px;
  color:#606060;
