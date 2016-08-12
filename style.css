@@ -46,7 +46,6 @@ h1{
 }
 
 #HEducation.tab{
-  align-items:flex-end;
   background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarOrange.jpg");
 }
 
@@ -96,6 +95,7 @@ h2{
 }
 
 #JEducation.jumbotron {
+  align-items: flex-end;
   background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EducationJumboImage.jpg');
 }
 
