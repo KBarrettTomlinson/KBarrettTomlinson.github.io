@@ -84,7 +84,7 @@ html{
 
 /*JUMBOTRON SECTION*/
 
-h2{
+.container .jumbotron h2{
  left:10px;
  font-size:30px;
  color:#606060;
