@@ -33,6 +33,7 @@ p2{
 /*END FOOTER SECTION*/
 
 h1{
+  color:#606060;
   font-family:Verdana,Arial,Sans-Serif;
   font-size:36px;
   font-weight:bold;
@@ -85,16 +86,18 @@ html{
 /*JUMBOTRON SECTION*/
 
 h2{
- color:#ffffff;
+ color:#7f7f7f;
  font-family:Verdana,Arial,Sans-Serif;
- font-size:20px;
+ font-size:24px;
+ font-weight:bold;
  text-align:left;
 }
 
 h3{
-  color:#ffffff;
+  color:#7f7f7f;
   font-family:Verdana,Arial,Sans-Serif;
   font-size:16px;
+  font-weight:bold;
   text-align:left;
 }
 
