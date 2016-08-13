@@ -23,7 +23,7 @@ body{
 }
 
 p2{
-  color:#FFFAF0;
+  color:#606060;
   font-family:Verdana,arial,sans-serif;
   font-size:18px;
   height:50px;
@@ -33,7 +33,7 @@ p2{
 /*END FOOTER SECTION*/
 
 h1{
-  color:#FFFAF0;
+  color:#FFFfff;
   font-family:Verdana,Arial,Sans-Serif;
   font-size:36px;
   font-weight:bold;
@@ -74,7 +74,7 @@ p1{
 }
 
 p1:hover{
-  color:#fffAF0;
+  color:#ffffff;
 }
 
 /*END HEADER SECTION*/
@@ -86,7 +86,7 @@ html{
 /*JUMBOTRON SECTION*/
 
 h2{
- color:#fffAf0;
+ color:#ffffff;
  font-family:Verdana,Arial,Sans-Serif;
  font-size:24px;
  font-weight:bold;
@@ -94,7 +94,7 @@ h2{
 }
 
 h3{
-  color:FFFAF0;
+  color:FFFfff;
   font-family:Verdana,Arial,Sans-Serif;
   font-size:16px;
   font-weight:bold;
@@ -139,7 +139,7 @@ h3{
 
 .jumbotron{
   background-size: cover;
-  color:#AFFAF0;
+  color:#ffffff;
   display:flex;
   height:500px;
   margin:10px;
