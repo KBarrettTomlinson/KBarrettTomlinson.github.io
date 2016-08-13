@@ -101,6 +101,14 @@ h3{
   text-align:left;
 }
 
+h4{
+  color:#FFFfff;
+  font-family:Verdana,Arial,Sans-Serif;
+  font-size:36px;
+  font-weight:bold;
+  text-align:left;
+}
+
 
 #JAbout.jumbotron {
   background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/AboutJumboImage.jpg');
