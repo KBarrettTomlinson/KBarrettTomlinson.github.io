@@ -95,7 +95,7 @@ h2{
 
 h3{
   background-color:black;
-  border-radius:25px;
+  border-radius:15px;
   color:FFFfff;
   font-family:Verdana,Arial,Sans-Serif;
   font-size:18px;
@@ -107,12 +107,13 @@ h3{
 
 ul{
   background-color:black;
-  border-radius:25px;
+  border-radius:15px;
   padding:10px;
 }
 
 li{
-  margin:5px;
+  font-weight:bold;
+  margin:3px;
 }
 
 h4{
