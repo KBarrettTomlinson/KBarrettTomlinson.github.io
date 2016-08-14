@@ -111,6 +111,10 @@ ul{
   padding:10px;
 }
 
+li{
+  margin:5px;
+}
+
 h4{
  color:#ffffff;
  font-family:Verdana,Arial,Sans-Serif;
