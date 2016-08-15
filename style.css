@@ -105,13 +105,8 @@ h3{
   text-align:left;
 }
 
-ul{
-  background-image:url("https://s3.amazonaws.com/primeacademy/BackgroundImages/BackgroundBlueWide.jpg");
-  border-radius:15px;
-  padding:10px;
-}
-
 li{
+  font-size:14px;
   font-weight:bold;
   margin:3px;
 }
