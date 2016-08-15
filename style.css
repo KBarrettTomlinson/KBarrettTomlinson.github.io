@@ -105,19 +105,10 @@ h3{
   text-align:left;
 }
 
-ul{
-    background-image:url("https://s3.amazonaws.com/primeacademy/NavBarImages/NavBarYellow.jpg");
-    background-position:center bottom;
-    background-repeat:no-repeat;
-    background-size:cover;
-    border-radius:15px;
-    padding:10px;
-}
-
 li{
   font-size:14px;
   font-weight:bold;
-  margin:3px;
+  margin:8px;
 }
 
 h4{
