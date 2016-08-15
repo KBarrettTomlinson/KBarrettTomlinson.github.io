@@ -103,6 +103,11 @@ h3{
   text-align:left;
 }
 
+ul{
+  background-color:black;
+  opacity:.75;
+}
+
 li{
   font-size:14px;
   margin:8px;
