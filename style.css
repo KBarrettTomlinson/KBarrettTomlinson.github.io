@@ -94,8 +94,6 @@ h2{
 }
 
 h3{
-  background-color:#606060;
-  border-radius:15px;
   color:FFFfff;
   font-family:Verdana,Arial,Sans-Serif;
   font-size:18px;
@@ -108,7 +106,7 @@ h3{
 li{
   font-size:14px;
   font-weight:bold;
-  margin:8px;
+  margin:2px;
 }
 
 h4{
