@@ -76,6 +76,47 @@ li{
   margin:8px;
 }
 
+/*JUMBOTRON*/
+
+#JAbout.jumbotron {
+  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/AboutJumboImage.jpg');
+}
+
+#JEducation.jumbotron {
+  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EducationJumboImage.jpg');
+}
+
+#JEmploymentBarista.jumbotron {
+  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EmploymentBaristaJumboImage.jpg');
+}
+
+#JEmploymentHistory.jumbotron {
+  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EmploymentHistoryJumboImage.jpg');
+}
+
+#JEmploymentPeaceCoffee1.jumbotron {
+  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EmploymentPeaceCoffee1JumboImage.jpg');
+}
+
+#JEmploymentPeaceCoffee2.jumbotron {
+  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EmploymentPeaceCoffee2JumboImage.jpg');
+}
+
+#JEmploymentPeaceCoffee3.jumbotron {
+  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EmploymentPeaceCoffee3JumboImage.jpg');
+}
+
+#JHome.jumbotron {
+  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/HomeJumboImage.jpg');
+}
+
+.jumbotron{
+  background-size: cover;
+  color:#ffffff;
+  display:flex;
+  height:500px;
+  margin:10px;
+}
 
 p1{
   background-position:center;
@@ -99,54 +140,6 @@ p2{
   height:50px;
   padding:5px;
   text-align:center;
-}
-
-
-
-/*JUMBOTRON*/
-
-
-
-
-
-#JAbout.jumbotron {
-  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/AboutJumboImageA.jpg');
-}
-
-#JEducation.jumbotron {
-  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EducationJumboImage3.jpg');
-}
-
-#JEmploymentBarista.jumbotron {
-  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EmploymentBaristaJumboImageA.jpg');
-}
-
-#JEmploymentHistory.jumbotron {
-  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EmploymentHistoryJumboImage.jpg');
-}
-
-#JEmploymentPeaceCoffee1.jumbotron {
-  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EmploymentPeaceCoffee1JumboImage.jpg');
-}
-
-#JEmploymentPeaceCoffee2.jumbotron {
-  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EmploymentPeaceCoffee2JumboImageA.jpg');
-}
-
-#JEmploymentPeaceCoffee3.jumbotron {
-  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/EmploymentPeaceCoffee3JumboImageA.jpg');
-}
-
-#JHome.jumbotron {
-  background-image: url('https://s3.amazonaws.com/primeacademy/JumbotronImages/HomeJumboImage.jpg');
-}
-
-.jumbotron{
-  background-size: cover;
-  color:#ffffff;
-  display:flex;
-  height:500px;
-  margin:10px;
 }
 
 .spacer{
