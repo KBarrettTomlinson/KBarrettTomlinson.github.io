@@ -148,4 +148,6 @@ p2{
 
 ul{
   background-color:black;
+  border-radius:10px;
+  opacity:.80;
 }
