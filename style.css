@@ -39,9 +39,6 @@ h2{
 }
 
 h3{
-  background-color:#606060;
-  border-radius:10px;
-  opacity:.80;
   color:#ffffff;
   font-family:Verdana,Arial,Sans-Serif;
   font-size:18px;
@@ -152,5 +149,6 @@ p2{
 ul{
   background-color:#606060;
   border-radius:10px;
+  margin-top:10px;
   opacity:.80;
 }
