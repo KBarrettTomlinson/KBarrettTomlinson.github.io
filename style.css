@@ -147,10 +147,7 @@ p2{
 }
 
 ul{
-  background-image:url("https://s3.amazonaws.com/primeacademy/BackgroundImages/BackgroundTextImage.jpg");
-  background-position:center bottom;
-  background-repeat:no-repeat;
-  background-size:cover;
+  background-color:#606060;
   border-radius:10px;
   opacity:.80;
 }
