@@ -39,14 +39,14 @@ h2{
 }
 
 h3{
-  border-color:#606060;
+  background-color:#606060;
   border-radius:10px;
   opacity:.80;
- color:#ffffff;
- font-family:Verdana,Arial,Sans-Serif;
- font-size:18px;
- font-weight:bold;
- text-align:left;
+  color:#ffffff;
+  font-family:Verdana,Arial,Sans-Serif;
+  font-size:18px;
+  font-weight:bold;
+  text-align:left;
 }
 
 /*HEADER*/
